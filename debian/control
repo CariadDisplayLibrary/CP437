@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: CP437.h
-Description: CP437 (VGA Code Page 437) font for DisplayCore
+Description: CP437 (VGA Code Page 437)

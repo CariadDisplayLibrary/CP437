@@ -10,5 +10,5 @@ Preview images
 --------------
 * Fonts::CP437 
 
-![CP437](https://raw.githubusercontent.com/DisplayCore/CP437/master/Preview/CP437.png)
+![CP437](https://raw.githubusercontent.com/Cariad/CP437/master/Preview/CP437.png)
 
